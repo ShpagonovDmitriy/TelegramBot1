@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PY-213.5744.248">
+    <data-source name="@172.20.240.163" uuid="6356d587-8b12-4492-821d-6e042e0e1b4c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>Dima</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
