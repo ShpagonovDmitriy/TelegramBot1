@@ -1,3 +1,4 @@
 *.log
-settings.py
 __pycache__/
+cenz.txt
+cenz_to_json.py
